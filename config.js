@@ -11,7 +11,7 @@ import moment from 'moment-timezone'
 
 // ᑕOᒪᗩᗷOᖇᗩᗪOᖇᗴՏ Y ᑕᖇᗴáᗪOᖇ 🌸
 global.owner = [
-['51941247696', '🔥 Creador Gabriel', true],
+['51941658192', '🔥 Creador Gabriel', true],
 ['15614809253', 'David RyZe', true],
 ['573133374132', 'Yᴏ Sᴏʏ Yᴏ', true],
 ['18493907272', 'Dani Pana Del Brayan', true],
@@ -20,7 +20,7 @@ global.owner = [
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 // ᑎᑌᗰᗴᖇO ᗪᗴ OᗯᑎᗴᖇՏ ✨️
-global.mods = ['51941247696', '573133374132'];
+global.mods = ['51941658192', '573133374132'];
 global.suittag = ['51941247696', '573133374132'];
 global.prems = ['51941247696'];
 
