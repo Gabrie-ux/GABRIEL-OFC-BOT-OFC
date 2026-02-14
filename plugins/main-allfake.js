@@ -29,7 +29,7 @@ console.log(`Error : ${e}`)
 }}
 
 // IᖴᑎᖴOᖇᗰᗩᑕIOᑎ ᗪᗴ ᒪᗩ ᗷOT
-global.creador = 'Wa.me/51941247696'
+global.creador = 'Wa.me/51941658192'
 global.ofcbot = `Wa.me/${conn.user.jid.split('@')[0]}?text=✨️hl`
 global.asistencia = 'Wa.me/50231458537'
 global.namechannel = '🌸◌*̥₊ Rᴏxʏ-Mᴅ ◌❐🎋༉'
