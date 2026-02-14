@@ -11,7 +11,7 @@ let handler = async (m, { conn }) => {
   try {
     const q = m.quoted ? m.quoted : m
     const mime = (q.msg || q).mimetype || ''
-    if (!mime) return m.reply('🌧️ *Responde a un archivo o media para subirlo.*')
+    if (!mime) return m.reply('🌧️ *Responde a un archivo o media para subirlo uwu.*')
 
     const media = await q.download()
     if (!media) return m.reply('⛅ *Error al descargar el archivo.*')
